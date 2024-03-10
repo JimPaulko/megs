@@ -1,0 +1,8 @@
+{
+    "name": "MEGS",
+    "namespace": "Theme\\Miranda\\",
+    "description": "Hotel and Resort Booking system",
+    "author": "BROGRAMMERS",
+    "version": "1.11",
+    "required_plugins": []
+}
